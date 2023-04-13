@@ -1,2 +1,2 @@
 # Probability Project
-Proyek ini akan melakukan analisis probabilitas pada dataset "Titanic: Machine Learning from Disaster" yang tersedia di Kaggle.
+Analisis probabilitas pada dataset "Titanic: Machine Learning from Disaster" yang tersedia di Kaggle akan dilakukan oleh proyek ini. Dataset ini berisi informasi tentang penumpang kapal Titanic dan apakah mereka selamat atau tidak selamat dari bencana tersebut. Beberapa pertanyaan terkait peluang dan korelasi antara variabel dalam dataset ini akan dijawab oleh tujuan proyek ini.
